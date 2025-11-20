@@ -2,3 +2,5 @@
 Primeiro repositório do curso Git e Github do Gustavo Guanabara.
 
 Repositório criado durante a quinta aula do Curso em Vídeo.
+
+Linha adicionada direto no README pelo github apenas para TESTE.
