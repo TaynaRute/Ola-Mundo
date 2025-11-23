@@ -1,5 +1,5 @@
 public class OlaMundo {
-    public static void OlaMundo(String[] args) 
+    public static void main(String[] args)
     {
         System.out.println("Olá Mundo");
     }
